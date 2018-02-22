@@ -1,4 +1,4 @@
-	<div class="clearboth"></div>
+<div class="clearboth"></div>
 </div><!-- #content -->
 
 <?php if ( get_theme_mod( 'conica-footer-layout' ) == 'conica-footer-layout-social' ) : ?>

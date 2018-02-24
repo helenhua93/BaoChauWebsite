@@ -103,7 +103,6 @@ if ( function_exists('get_site_option') ) {
 	if ( false === get_site_option('can_compress_scripts') )
 		compression_test();
 }
-
 ?>
 
 <div class="clear"></div></div><!-- wpwrap -->

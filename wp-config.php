@@ -22,13 +22,13 @@
 /** The name of the database for WordPress */
 define('WP_CACHE', true);
 define( 'WPCACHEHOME', 'D:\XAMPP\htdocs\BaoChauWebsite\wp-content\plugins\wp-super-cache/' );
-define('DB_NAME', 'Ad_BaoChau');
+define('DB_NAME', 'ad_baoChau');
 
 /** MySQL database username */
-define('DB_USER', 'Ad_BaoChau');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'admin');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');

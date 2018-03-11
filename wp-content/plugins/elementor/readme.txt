@@ -4,7 +4,8 @@ Tags: page builder, editor, landing page, drag-and-drop, elementor, visual edito
 Requires at least: 4.5
 Tested up to: 4.9
 Requires PHP: 5.4
-Stable tag: 1.9.6
+Stable tag: 1.9.7
+Beta tag: 2.0.0-beta1
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -188,6 +189,16 @@ No. Elementor supports WordPress 4.5 or greater, and is compatible with PHP 5.4 
 7. **Shape Divider.** Choose from a wide array of shape dividers and separate your sections in endless ways, that until now were simply not possible.
 
 == Changelog ==
+
+= 2.0.0 Beta 1 - Available For Beta Testing =
+* [Read more about v2.0](https://github.com/pojome/elementor/issues/3706/)
+* [Sign Up Now For Our Elite Group Of Early Access Testers](https://my.elementor.com/beta/)
+
+= 1.9.7 - 2018-02-27 =
+* Tweak: `Element_Base::get_style_depends()` method is now overwritable ([#3494](https://github.com/pojome/elementor/issues/3494))
+* Fix: "Enter" key triggers Elementor mode instead of default submit action ([#3556](https://github.com/pojome/elementor/issues/3556))
+* Fix: Stop showing Connection Lost notification when editing widgets
+* Fix: Counter widget - Allow spacing between prefix and suffix
 
 = 1.9.6 - 2018-02-21 =
 * Fix: When selecting a color with alpha, the value is not fully visible ([#3320](https://github.com/pojome/elementor/issues/3320))
